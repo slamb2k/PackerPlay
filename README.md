@@ -40,7 +40,6 @@ Automation manages the entire lifecycle of the infrastructure, ensures consisten
  
 With the three activities detailed above we take control of of the critical aspects of resource state configuration management.
 
-
-### H4 :one: With Packer the initial provisioning of a VMs can be automated, governed and monitored just like any application code the team creates.
-### H4 :one: Using VM extensions we can simply and effectively provide customisations and additions to the VM state without requiring constant rebuilding and redeploying of the VM image.
-### H4 :one: Finally, we can use the state definitions that we are creating to deploy the required components to additionally monitor and ensure that VMs remain within the desired parameters.
+:one: With Packer the initial provisioning of a VMs can be automated, governed and monitored just like any application code the team creates.
+:two: Using VM extensions we can simply and effectively provide customisations and additions to the VM state without requiring constant rebuilding and redeploying of the VM image.
+:three: Finally, we can use the state definitions that we are creating to deploy the required components to additionally monitor and ensure that VMs remain within the desired parameters.
